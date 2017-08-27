@@ -15,4 +15,13 @@ eureka.client.fetchRegistry: false
 
 server.port: 1111
 
+########################################################
+
+In order to see the full usage of this application you will have to download and run the below projects also,
+
+1. eureka-student-client (microservice)
+
+2. eureka-web-consumer (web application)
+
+
 
